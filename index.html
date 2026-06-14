@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aplikasi Web Dongeng Anak Nusantara - Baca dan dengarkan cerita-cerita interaktif seru dan mendidik untuk anak-anak dengan fitur suara pembaca otomatis.">
+    <title>Dongeng Anak Nusantara - Cerita Interaktif & Suara</title>
+    <!-- Google Fonts: Quicksand & Fredoka for playful kids vibe -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Animated Bubbles -->
+    <div class="bubble-bg">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+    <!-- MAIN APP CONTAINER -->
+    <div id="app" class="app-container">
+        
+        <!-- HEADER -->
+        <header class="app-header" id="main-header">
+            <div class="logo-area">
+                <span class="logo-icon">📖</span>
+                <div class="logo-text">
+                    <h1>Dongeng Anak</h1>
+                    <p>Nusantara Interaktif</p>
+                </div>
+            </div>
+            <div class="header-decorations">
+                <span class="decor-item floating-item">🎈</span>
+                <span class="decor-item floating-item-delay">✨</span>
+            </div>
+        </header>
+
+        <!-- HOMEPAGE SECTION -->
+        <main id="home-view" class="view-section active">
+            <!-- Search & Filters -->
+            <section class="filter-section">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Cari dongeng seru..." aria-label="Cari dongeng">
+                    <button class="btn-search" id="btn-search" aria-label="Cari">🔍</button>
+                </div>
+                <div class="category-filters" id="category-filters">
+                    <button class="filter-btn active" data-category="semua">🌈 Semua</button>
+                    <button class="filter-btn" data-category="Fabel">🦊 Hewan (Fabel)</button>
+                    <button class="filter-btn" data-category="Legenda">🌊 Legenda</button>
+                    <button class="filter-btn" data-category="Moral">💡 Nilai Moral</button>
+                </div>
+            </section>
+
+            <!-- Story Grid -->
+            <section class="stories-grid-container">
+                <h2 class="section-title">Pilih Cerita Favoritmu 👇</h2>
+                <div class="stories-grid" id="stories-grid">
+                    <!-- Cards will be populated dynamically by JS -->
+                </div>
+            </section>
+        </main>
+
+        <!-- READER VIEW SECTION -->
+        <main id="reader-view" class="view-section">
+            <div class="reader-header">
+                <button class="btn-back" id="btn-back-home" title="Kembali ke Beranda">⬅️ Beranda</button>
+                <div class="story-info-compact">
+                    <span class="badge" id="reader-badge">Fabel</span>
+                    <h2 id="reader-story-title">Judul Dongeng</h2>
+                </div>
+                <div style="width: 70px;"></div> <!-- Spacer for symmetry -->
+            </div>
+
+            <div class="reader-container">
+                <!-- Cover Image & Illustration Panel -->
+                <div class="illustration-panel">
+                    <img id="reader-illustration" src="" alt="Ilustrasi Cerita">
+                </div>
+
+                <!-- Text & Control Panel -->
+                <div class="story-content-panel">
+                    <!-- Audio & Voice Control Area -->
+                    <div class="audio-control-card">
+                        <div class="audio-main-controls">
+                            <button class="audio-btn" id="btn-play-voice" title="Putar Suara Cerita">🔊 Dengarkan</button>
+                            <button class="audio-btn pause-btn" id="btn-pause-voice" disabled title="Jeda Suara">⏸️ Jeda</button>
+                            <button class="audio-btn stop-btn" id="btn-stop-voice" disabled title="Hentikan Suara">⏹️ Stop</button>
+                        </div>
+                        <div class="audio-settings">
+                            <label for="speed-slider">Kecepatan: <span id="speed-label">1.0x</span></label>
+                            <input type="range" id="speed-slider" min="0.5" max="1.5" step="0.1" value="1.0">
+                        </div>
+                    </div>
+
+                    <!-- Story Text Display -->
+                    <div class="story-text-container">
+                        <p id="story-text">Teks cerita akan muncul di sini...</p>
+                    </div>
+
+                    <!-- Slide Navigation -->
+                    <div class="reader-navigation">
+                        <button class="nav-btn" id="btn-prev-page">◀️ Sebelum</button>
+                        <div class="page-indicator">
+                            Halaman <span id="current-page">1</span> dari <span id="total-pages">6</span>
+                        </div>
+                        <button class="nav-btn next-btn" id="btn-next-page">Lanjut ▶️</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- FOOTER -->
+        <footer class="app-footer">
+            <p>Dibuat dengan ❤️ untuk anak-anak Indonesia</p>
+        </footer>
+    </div>
+
+    <!-- Celebration/Confetti Container -->
+    <div id="confetti-container"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
