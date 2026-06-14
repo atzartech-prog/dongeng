@@ -69,6 +69,122 @@ const stories = [
             "Dengan tubuh gemetar, Belalang pergi ke sarang Semut. Di sana, ia melihat para semut hidup dengan hangat dan nyaman, menikmati jagung dan gandum yang telah mereka kumpulkan selama musim panas. Belalang mengetuk pintu dan memohon bantuan.",
             "Melihat Belalang yang kelaparan, Semut yang baik hati membagikan makanannya. Belalang merasa sangat menyesal dan berjanji, 'Terima kasih, Semut. Aku berjanji tidak akan malas lagi dan akan belajar bersiap untuk masa depan.' Sejak saat itu, Belalang bekerja sama dengan Semut."
         ]
+    },
+    {
+        id: "timun-mas",
+        title: "Timun Mas",
+        category: "Legenda",
+        readTime: "4 Menit",
+        cover: "assets/timun_mas.jpg",
+        description: "Kisah keberanian gadis bernama Timun Mas yang berjuang melarikan diri dari kejaran raksasa jahat Buto Ijo menggunakan bekal ajaib.",
+        pages: [
+            "Dahulu kala, di sebuah desa terpencil, hiduplah seorang janda tua bernama Mbok Srini. Ia hidup sebatang kara dan sangat mendambakan kehadiran seorang anak. Suatu hari, Mbok Srini berdoa dengan sangat khusyuk di dekat hutan.",
+            "Tiba-tiba, bumi bergetar dan muncullah raksasa berwajah menyeramkan bernama Buto Ijo. 'Aku bisa mengabulkan keinginanmu, Mbok Srini! Tapi dengan syarat, saat anak itu berusia 17 tahun, kamu harus menyerahkannya kepadaku untuk kumakan!' kata Buto Ijo. Mbok Srini yang sangat mendambakan anak pun terpaksa menyetujuinya.",
+            "Buto Ijo memberikan sebutir biji mentimun ajaib. Mbok Srini menanamnya di ladang. Beberapa waktu kemudian, tumbuhlah buah mentimun yang sangat besar dan berkilau keemasan. Ketika Mbok Srini membelahnya, ia terkejut melihat bayi perempuan yang cantik di dalamnya. Bayi itu diberi nama Timun Mas.",
+            "Tahun demi tahun berlalu, Timun Mas tumbuh menjadi gadis yang cantik, cerdas, dan sangat baik budi. Mbok Srini sangat menyayanginya. Namun, seiring berjalannya waktu, Mbok Srini mulai merasa cemas karena usia Timun Mas hampir mendekati 17 tahun.",
+            "Sebelum hari kedatangan Buto Ijo tiba, Mbok Srini bermimpi menemui seorang petapa sakti di gunung. Keesokan harinya, ia mengutus Timun Mas menemui petapa itu. Sang petapa memberikan empat kantong kecil berisi biji mentimun, jarum, garam, dan terasi sebagai senjata pelindung diri.",
+            "Ketika hari ulang tahun Timun Mas yang ke-17 tiba, Buto Ijo datang menagih janji dengan suara menggelegar. Mbok Srini menyuruh Timun Mas segera berlari lewat pintu belakang. Mengetahui mangsanya kabur, Buto Ijo sangat marah dan segera mengejar Timun Mas dengan langkah kakinya yang besar.",
+            "Saat Buto Ijo hampir menangkapnya, Timun Mas melemparkan kantong pertama berisi biji mentimun. Seketika, ladang di sekitarnya berubah menjadi kebun mentimun yang lebat. Buto Ijo yang kelaparan berhenti untuk memakan buah-buah itu, memberi waktu bagi Timun Mas untuk menjauh.",
+            "Namun, Buto Ijo kembali mengejar. Timun Mas melempar kantong kedua berisi jarum. Jarum-jarum itu berubah menjadi hutan bambu yang sangat lebat dan berduri tajam. Buto Ijo terluka dan kesulitan melewatinya, tetapi dengan kekuatannya ia berhasil menerobos.",
+            "Timun Mas melemparkan kantong ketiga berisi garam. Garam itu seketika mengubah daratan menjadi lautan yang sangat luas dan dalam. Buto Ijo terpaksa berenang bersusah payah menyeberangi lautan tersebut.",
+            "Terakhir, saat raksasa itu hampir mendekat lagi, Timun Mas melemparkan kantong keempat berisi terasi. Terasi itu seketika berubah menjadi danau lumpur hisap yang mendidih. Buto Ijo terperosok ke dalamnya dan tenggelam. Timun Mas pun selamat dan hidup bahagia selamanya bersama Mbok Srini."
+        ]
+    },
+    {
+        id: "sangkuriang",
+        title: "Sangkuriang",
+        category: "Legenda",
+        readTime: "4 Menit",
+        cover: "assets/sangkuriang.jpg",
+        description: "Legenda Jawa Barat tentang asal-usul Gunung Tangkuban Perahu yang tercipta dari perahu besar yang ditendang oleh Sangkuriang.",
+        pages: [
+            "Dahulu kala di Jawa Barat, hiduplah seorang putri cantik bernama Dayang Sumbi. Ia tinggal bersama anjing kesayangannya bernama Tumang, yang sebenarnya adalah titisan dewa. Mereka memiliki seorang putra yang tampan dan gagah bernama Sangkuriang.",
+            "Suatu hari, Sangkuriang berburu di hutan ditemani Tumang. Namun, setelah berjam-jam, mereka tidak mendapatkan hasil apa pun. Sangkuriang menyuruh Tumang untuk mengejar seekor babi hutan, namun Tumang menolak. Karena marah, Sangkuriang tidak sengaja membunuh Tumang.",
+            "Ketika pulang, Sangkuriang memberikan hati Tumang kepada ibunya untuk dimasak. Setelah memakannya, Dayang Sumbi menanyakan keberadaan Tumang. Sangkuriang akhirnya mengaku. Mendengar hal itu, Dayang Sumbi sangat marah dan memukul kepala Sangkuriang dengan sendok nasi hingga terluka dan mengusirnya pergi.",
+            "Bertahun-tahun berlalu, Sangkuriang tumbuh menjadi pemuda yang sangat sakti dan berkelana ke berbagai tempat. Suatu hari, ia kembali ke desa asalnya tanpa menyadari tempat itu. Di sana, ia bertemu dengan seorang wanita yang sangat cantik jelita dan langsung jatuh cinta.",
+            "Wanita itu tidak lain adalah Dayang Sumbi, yang telah dianugerahi awet muda oleh para dewa. Dayang Sumbi pun menerima lamaran Sangkuriang. Namun, saat Sangkuriang hendak merapikan rambutnya sebelum pesta pernikahan, Dayang Sumbi melihat bekas luka di kepala pemuda itu.",
+            "Dayang Sumbi terkejut karena menyadari bahwa pemuda itu adalah putra kandungnya sendiri yang telah lama hilang. Ia mencoba menjelaskan kebenaran tersebut, tetapi Sangkuriang tidak percaya dan tetap bersikeras untuk menikahinya.",
+            "Untuk membatalkan pernikahan tanpa memicu kemarahan, Dayang Sumbi mengajukan dua syarat berat: membendung sungai Citarum dan membuat perahu besar untuk menyeberanginya, semuanya harus selesai dalam waktu satu malam sebelum fajar menyingsing.",
+            "Sangkuriang menyanggupinya. Menggunakan kesaktiannya, ia memanggil bala tentara jin untuk membantunya. Sebelum tengah malam, bendungan hampir selesai dan pembuatan perahu raksasa pun hampir rampung. Dayang Sumbi yang cemas mulai berdoa meminta petunjuk dewa.",
+            "Dayang Sumbi kemudian membentangkan kain sutra merah di ufuk timur dan menyuruh warga menumbuk padi agar ayam jantan berkokok. Melihat cahaya merah dan mendengar kokok ayam, para jin mengira fajar telah tiba. Mereka ketakutan dan langsung pergi meninggalkan pekerjaan yang belum selesai.",
+            "Sangkuriang menyadari bahwa ia telah dikelabui. Sangat marah karena kegagalannya, ia menjebol bendungan yang telah dibuat hingga menyebabkan banjir bandang. Ia lalu menendang perahu besar buatannya hingga terbang jauh dan jatuh tertelungkup, yang kini dikenal sebagai Gunung Tangkuban Perahu."
+        ]
+    },
+    {
+        id: "bawang-merah-putih",
+        title: "Bawang Merah dan Bawang Putih",
+        category: "Moral",
+        readTime: "4 Menit",
+        cover: "assets/bawang_merah_putih.jpg",
+        description: "Kisah tentang Bawang Putih yang baik hati dan Bawang Merah yang serakah, mengajarkan bahwa kebaikan akan selalu membuahkan kebahagiaan.",
+        pages: [
+            "Di sebuah desa, hiduplah seorang gadis yatim bernama Bawang Putih. Ia tinggal bersama ibu tiri dan saudara tirinya yang bernama Bawang Merah. Bawang Putih selalu diperlakukan layaknya pembantu, disuruh mengerjakan semua pekerjaan rumah tangga dari pagi hingga malam.",
+            "Sementara itu, Bawang Merah hidup bermalas-malasan dan selalu dimanjakan oleh ibunya. Suatu hari, saat mencuci pakaian di sungai yang berarus deras, salah satu baju kesayangan ibu tirinya hanyut terbawa arus. Bawang Putih yang takut dihukum pun berjalan menyusuri sungai mencari baju tersebut.",
+            "Pencariannya membawanya ke sebuah gubuk tua di dekat hutan yang dihuni oleh seorang nenek. Nenek itu berkata, 'Aku menemukan baju yang kamu cari. Aku akan mengembalikannya, asalkan kamu membantuku membersihkan rumah dan memasak selama seminggu.'",
+            "Bawang Putih menyanggupinya dengan senang hati. Ia melayani nenek itu dengan sangat rajin, sopan, dan penuh kasih sayang. Ketika genap seminggu, nenek mengembalikan baju yang hanyut dan menawarkannya sebuah labu sebagai hadiah. Nenek menyodorkan dua labu: satu besar dan satu kecil.",
+            "Bawang Putih memilih labu yang kecil karena ia harus berjalan kaki jauh. Sesampainya di rumah, ibu tiri dan Bawang Merah langsung memarahinya karena pulang terlambat. Mereka merebut labu kecil tersebut dan membantingnya ke lantai hingga pecah.",
+            "Betapa terkejutnya mereka saat melihat labu itu tidak berisi biji, melainkan penuh dengan perhiasan emas dan berlian yang berkilau indah. Bawang Merah dan ibunya yang serakah langsung merencanakan agar Bawang Merah mendapatkan hadiah yang lebih besar.",
+            "Keesokan harinya, Bawang Merah dengan sengaja menghanyutkan baju ke sungai, lalu mendatangi gubuk nenek tersebut. Namun, selama seminggu tinggal di sana, Bawang Merah selalu malas, berbicara kasar, dan menolak bekerja.",
+            "Saat waktunya pulang, Bawang Merah meminta hadiah labu besar tanpa malu-malu. Nenek pun memberikannya. Setibanya di rumah, Bawang Merah dan ibunya langsung mengunci diri di kamar agar tidak perlu berbagi dengan Bawang Putih. Mereka dengan tidak sabar membanting labu besar itu.",
+            "Bukannya emas permata, dari dalam labu besar itu justru keluar berbagai macam hewan berbisa seperti ular, kalajengking, dan kelabang. Hewan-hewan itu menyerang mereka berdua. Mereka akhirnya menyadari kesalahan mereka dan meminta maaf kepada Bawang Putih atas semua kejahatan mereka selama ini."
+        ]
+    },
+    {
+        id: "kancil-siput",
+        title: "Kancil dan Siput",
+        category: "Fabel",
+        readTime: "3 Menit",
+        cover: "assets/kancil_siput.jpg",
+        description: "Kisah fabel klasik tentang Kancil yang sombong ditantang lomba lari oleh Siput yang cerdik, memberikan pelajaran berharga untuk tidak meremehkan orang lain.",
+        pages: [
+            "Kancil terkenal sebagai hewan yang sangat cerdik dan lincah di hutan. Namun kesuksesannya mengelabui hewan-hewan lain membuatnya menjadi sangat sombong. Ia sering mengejek hewan-hewan lambat, terutama Siput yang berjalan sangat pelan dengan rumah di punggungnya.",
+            "'Hai Siput! Apakah kamu mau ikut lomba lari denganku? Kita lihat siapa yang akan sampai duluan di ujung sungai!' ejek Kancil sambil tertawa. Siput yang merasa harga dirinya terluka menerima tantangan itu dengan tenang. 'Baiklah Kancil, besok pagi kita berlomba,' jawab Siput.",
+            "Siput yang cerdas mengumpulkan teman-teman siput lainnya di sepanjang tepian sungai. Ia membuat rencana, 'Besok, berbarislah kalian di sepanjang rute lomba. Jika Kancil berteriak memanggilku, siput yang berada di depannya harus menjawab \"Aku di sini!\".'",
+            "Keesokan harinya, perlombaan dimulai. Kancil berlari dengan sangat cepat, meninggalkan Siput jauh di belakang. Setelah berlari cukup jauh, Kancil berteriak sombong, 'Siput, di mana kamu?'. Tiba-tiba terdengar jawaban dari arah depannya, 'Aku di sini, Kancil!'",
+            "Kancil terkejut. Ia segera menambah kecepatannya dan berlari lebih kencang lagi. Setelah beberapa saat, ia berteriak lagi, 'Siput, sekarang di mana kamu?'. Dan jawaban kembali terdengar dari depannya, 'Aku di sini, Kancil!'",
+            "Kancil semakin panik dan kelelahan. Ia terus berlari sekuat tenaga hingga napasnya terengah-engah, namun setiap kali ia memanggil, Siput selalu terdengar berada di depannya. Akhirnya, Kancil kehabisan napas dan pingsan di dekat garis finish.",
+            "Saat Kancil terbangun, Siput sudah berada di garis finish menantinya sambil tersenyum ramah. Kancil menunduk malu dan meminta maaf karena telah meremehkan Siput. Kancil pun berjanji untuk tidak pernah bersikap sombong lagi kepada siapa pun."
+        ]
+    },
+    {
+        id: "danau-toba",
+        title: "Danau Toba",
+        category: "Legenda",
+        readTime: "4 Menit",
+        cover: "assets/danau_toba.jpg",
+        description: "Kisah legenda dari Sumatera Utara tentang asal mula Danau Toba dan Pulau Samosir akibat pelanggaran sumpah seorang pemuda bernama Toba.",
+        pages: [
+            "Dahulu kala di wilayah Sumatera Utara, hiduplah seorang pemuda yatim piatu bernama Toba. Ia bekerja sebagai petani dan sesekali memancing di sungai untuk memenuhi kebutuhan sehari-harinya.",
+            "Suatu hari, Toba memancing dan berhasil menangkap seekor ikan mas yang sangat besar dan berkilau indah. Ketika ia hendak memasaknya, ikan mas itu tiba-tiba berubah menjadi seorang wanita yang sangat cantik jelita.",
+            "Wanita cantik itu berterima kasih karena telah membebaskannya dari kutukan dewa. Sebagai balas budi, ia bersedia menjadi istri Toba dengan satu syarat mutlak: Toba tidak boleh pernah mengungkit asal-usulnya yang merupakan seekor ikan. Toba menyetujui syarat tersebut.",
+            "Mereka menikah dan hidup bahagia. Beberapa tahun kemudian, mereka dikaruniai seorang anak laki-laki yang diberi nama Samosir. Samosir tumbuh menjadi anak yang sangat aktif, namun ia memiliki nafsu makan yang sangat besar dan agak manja.",
+            "Suatu hari, ibu Samosir menyuruhnya mengantarkan bekal makanan untuk ayahnya yang sedang bekerja di ladang. Di tengah perjalanan, Samosir merasa sangat lapar. Ia pun memakan sebagian besar bekal tersebut dan hanya menyisakan sedikit nasi serta lauk sisa.",
+            "Ketika Toba menerima bekal yang sudah hampir kosong itu, ia merasa sangat lapar dan lelah setelah bekerja keras seharian. Toba menjadi sangat marah melihat sisa makanan tersebut dan bertanya, 'Mengapa makanannya tinggal sedikit?'",
+            "Samosir dengan jujur mengaku telah memakannya karena lapar. Toba yang tersulut emosi lupa akan janjinya dan berteriak murka, 'Dasar anak nakal tidak tahu diuntung! Memang kelakuanmu seperti anak ikan!'",
+            "Mendengar ucapan ayahnya, Samosir menangis sedih dan langsung berlari pulang mengadu kepada ibunya. Sang ibu sangat sedih karena Toba telah melanggar janji setianya. Ibu menyuruh Samosir segera berlari ke atas bukit yang tinggi.",
+            "Seketika itu juga, langit mendung bergemuruh dahsyat. Hujan sangat lebat turun tanpa henti dan air menyembur deras dari dalam tanah tempat tinggal mereka. Area lembah itu pun tenggelam dengan cepat hingga membentuk sebuah danau yang sangat luas.",
+            "Istri Toba melompat kembali ke dalam air dan berubah menjadi ikan mas raksasa. Danau yang terbentuk dinamakan Danau Toba, sedangkan bukit tempat Samosir menyelamatkan diri kini dikenal sebagai Pulau Samosir di tengah danau tersebut."
+        ]
+    },
+    {
+        id: "roro-jonggrang",
+        title: "Roro Jonggrang",
+        category: "Legenda",
+        readTime: "4 Menit",
+        cover: "assets/roro_jonggrang.jpg",
+        description: "Kisah tentang legenda Candi Prambanan di mana Bandung Bondowoso dikelabui oleh Roro Jonggrang dalam pembuatan seribu candi.",
+        pages: [
+            "Dahulu kala, terdapat Kerajaan Pengging yang dipimpin oleh Bandung Bondowoso, seorang pangeran yang sangat sakti dan kejam. Ia berhasil menaklukkan Kerajaan Prambanan dan menewaskan rajanya, Prabu Baka.",
+            "Ketika menduduki istana Prambanan, Bandung Bondowoso melihat putri Prabu Baka yang sangat cantik jelita bernama Roro Jonggrang. Terpikat oleh kecantikannya, Bandung Bondowoso langsung melamarnya untuk dijadikan istri.",
+            "Roro Jonggrang merasa sangat sedih dan bingung. Ia membenci pembunuh ayahnya, namun ia juga takut menolak lamaran pria sesakti Bandung Bondowoso. Akhirnya, Roro Jonggrang mengajukan syarat yang hampir mustahil dipenuhi.",
+            "'Aku bersedia menjadi istrimu, asalkan kamu bisa membangun seribu candi dan dua sumur yang sangat dalam dalam waktu satu malam saja sebelum matahari terbit,' pinta Roro Jonggrang.",
+            "Bandung Bondowoso menyanggupinya. Pada malam hari, ia pergi ke lapangan luas dan bersemedi, memanggil seluruh pasukan jin dan makhluk halus untuk membantunya membangun seribu candi tersebut.",
+            "Pasukan jin bekerja dengan kecepatan luar biasa. Batu demi batu ditumpuk hingga ratusan candi berdiri megah dalam waktu singkat. Roro Jonggrang yang mengintip dari kejauhan mulai cemas karena melihat pekerjaan itu hampir selesai.",
+            "Melihat waktu baru menunjukkan tengah malam namun candi yang terbangun sudah mencapai 999 buah, Roro Jonggrang segera mengumpulkan para dayang istana. Ia menyuruh mereka membakar jerami di arah timur dan menumbuk lesung kayu.",
+            "Suasana malam berubah menjadi terang akibat kobaran api jerami, dan suara tumbukan lesung membuat ayam-ayam jantan berkokok bersahutan. Pasukan jin mengira pagi telah tiba dan sinar matahari akan membakar mereka.",
+            "Para jin ketakutan dan langsung pergi melarikan diri ke dalam tanah, meninggalkan pekerjaan mereka yang kurang satu candi lagi. Bandung Bondowoso sangat kesal karena tidak bisa menahan pasukannya pergi.",
+            "Ketika pagi tiba, Bandung Bondowoso menghitung jumlah candi dan mendapati jumlahnya hanya 999. Roro Jonggrang berkata, 'Lamaranmu kutolak karena syaratnya tidak terpenuhi!'. Menyadari dirinya dikelabui, Bandung Bondowoso sangat murka dan mengutuk Roro Jonggrang menjadi batu untuk melengkapi candi keseribu."
+        ]
     }
 ];
 
